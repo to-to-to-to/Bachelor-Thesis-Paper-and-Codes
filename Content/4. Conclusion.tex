@@ -1,0 +1,16 @@
+% Ubah judul dan label berikut sesuai dengan yang diinginkan.
+\section{CONCLUSION}
+\label{sec:kesimpulan}
+
+% Ubah paragraf-paragraf pada bagian ini sesuai dengan yang diinginkan.
+
+From all the research that has been done, some conclusions can be drawn as follows:
+
+\begin{enumerate}[nolistsep]
+
+  \item the use of the \textit{Stemming} feature always results in poorer model performance when applied to a dataset containing non-standard words. This is because the \textit{Stemming} feature does not work optimally if it cuts affixed words in non-standard sentences which results in a lack of performance from the model.
+  \item Using \textit{Freeze Parameter} has very little effect on model performance. When compared with models that do not use \textit{Freeze Parameter}, the difference in accuracy is only 1\%.
+  \item BERT is a very easy \textit{overfit} model, so setting parameters such as the \textit{freeze} parameter will make the model more \textit{general} but have a few percent lower accuracy.
+  \item BERT is a pretty good and effective model for classifying text which has been proven to produce an accuracy performance level of 90\% and only takes a total of 5 minutes for 1 \textit{epoch} only.
+  \item the performance of the model using a dataset that contains many non-standard sentences has the best performance at 90\% by using \textit{Pretrained Model} named \textit{akahana/indonesia-emotion-roberta} and without going through the \textit{Stemming} and using \textit{Freeze Parameters}
+  \end{enumerate}
