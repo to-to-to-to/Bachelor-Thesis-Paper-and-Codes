@@ -21,6 +21,6 @@ As opposed to directional models, which read the text input sequentially (left-t
 
 # How to Read My Project through this Repo
 
-- [Paper](https://github.com/to-to-to-to/Bachelor-Thesis-Paper-and-Codes/blob/master/paper.pdf)
-- [Codes](https://github.com/to-to-to-to/Bachelor-Thesis-Paper-and-Codes/tree/master/Codes)
+- [Paper in PDF Format](https://github.com/to-to-to-to/Bachelor-Thesis-Paper-and-Codes/blob/master/paper.pdf)
+- [All Codes that I've Written for this Project](https://github.com/to-to-to-to/Bachelor-Thesis-Paper-and-Codes/tree/master/Codes)
 
