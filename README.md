@@ -19,5 +19,8 @@ BERT makes use of Transformer, an attention mechanism that learns contextual rel
 As opposed to directional models, which read the text input sequentially (left-to-right or right-to-left), the Transformer encoder reads the entire sequence of words at once. Therefore it is considered bidirectional, though it would be more accurate to say that it’s non-directional. This characteristic allows the model to learn the context of a word based on all of its surroundings (left and right of the word).
 
 
+# How to Read My Project through this Repo
 
+- [Paper](https://github.com/to-to-to-to/Bachelor-Thesis-Paper-and-Codes/blob/master/paper.pdf)
+- [Codes](https://github.com/to-to-to-to/Bachelor-Thesis-Paper-and-Codes/tree/master/Codes)
 
